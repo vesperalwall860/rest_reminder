@@ -1,2 +1,2 @@
 # flask_blank
-A base flask web-application structure
+A basic flask web-application structure
