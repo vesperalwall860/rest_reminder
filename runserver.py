@@ -1,2 +1,2 @@
-from flask_blank import app
+from project import app
 app.run(debug=True)
